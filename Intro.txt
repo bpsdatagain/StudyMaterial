@@ -1,0 +1,20 @@
+
+
+
+My Name is Bipin Rathor
+I have completed my Eng from Army Institue of Technology Pune.
+After that I join TCS and worked for Zim shipping.
+Tech Stack: Dot Net MVC,WEB API,ANGULAR
+Then I Joined one startup which is Datagain and there i worked on multiple projects like PTP,Transcription,Translation,Appeal Maangement etc
+Tech Stack: Dot net ,MVC,WEB API,ANGULAR,AWS 
+
+
+PTP: In US our Client are getting property tax bills for thier properties across US.
+We have designed a web portal to upload property tax bills in the system.
+
+
+
+
+
+ 
+
